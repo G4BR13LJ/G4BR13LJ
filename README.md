@@ -4,6 +4,7 @@
 
 - <b> 👨‍🎓 University of MacEwan</b>
   - Bachelor's Degree in Computer Science (graduated 2025)
+  - Minor in marketing
   
 - <b> 💻 Harvard cs50 </b>
   - Completed the free online version during University
@@ -45,6 +46,8 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+grassrootsvintage.ca
 
 [linkedin]: https://www.linkedin.com/in/gabriel-jorand-912527aa
 
