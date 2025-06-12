@@ -45,12 +45,12 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />LinkedIn] [linkedin] 
-[linkedin]: https://www.linkedin.com/in/gabriel-jorand-912527aa 
-<-- LinkedIn
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/gabriel-jorand-912527aa)  
+🔗 LinkedIn profile
 
-<a href="https://grassrootsvintage.ca" target="_blank">👖 grassrootsvintage.com </a>
-<-- Check out my vintage online clothing store
+[👖](https://grassrootsvintage.ca)  
+🔗 grassroots vintage online clothing store
+
 <!--
 **
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
