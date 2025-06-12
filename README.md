@@ -32,22 +32,21 @@
 
 - Custom accounting software using pandas for automation of parsing, cleaning and consolidating client forms
 - Adapting RL trading bot into real world environment
-- Digital Store for recycled 2nd hand Apparal (public URL coming soon)
+- Online Store for 2nd hand and vintage apparal (grassrootsvintage.ca)
 
 <h2>🌟 Skills I've Picked Up Along the Way:</h2>
 
 - <b>Proficient In:<b>
   - Programming: Python, Java, JavaScript, HTML/CSS, C#, SQL, Bash
-  - Frameworks & Tools: React, Django, Flask, PyTorch, PostgreSQL, Pandas, ArcGIS
+  - Frameworks & Tools: React, Next.js, Django, Flask, PyTorch, Tensorflow, PostgreSQL, Pandas, ArcGIS
   
 - <b>Introductory Knowledge:<b>
   - Programming & Networking: C, Assembly, Wireshark, PuTTY, tcptraceroute
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-grassrootsvintage.ca
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[linkedin]
 
 [linkedin]: https://www.linkedin.com/in/gabriel-jorand-912527aa
 
