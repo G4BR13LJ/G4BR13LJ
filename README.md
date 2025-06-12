@@ -45,7 +45,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />LinkedIn][linkedin][linkedin]: https://www.linkedin.com/in/gabriel-jorand-912527aa <-- LinkedIn
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />LinkedIn] [linkedin] 
+[linkedin]: https://www.linkedin.com/in/gabriel-jorand-912527aa 
+<-- LinkedIn
 
 <a href="https://grassrootsvintage.ca" target="_blank">👖 grassrootsvintage.com </a>
 <-- Check out my vintage online clothing store
