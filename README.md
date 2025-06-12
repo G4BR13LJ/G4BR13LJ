@@ -49,6 +49,10 @@
 
 [linkedin]: https://www.linkedin.com/in/gabriel-jorand-912527aa
 <-- LinkedIn
+
+<h2>🛍️ Check Out My Vintage Apparel Brand:</h2>
+
+<a href="https://grassrootsvintage.ca" target="_blank">👖 grassroots vintage apparel</a>
 <!--
 **
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
