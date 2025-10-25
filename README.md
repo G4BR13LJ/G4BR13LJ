@@ -2,14 +2,11 @@
 
 <h2>📜 Certifications:</h2>
 
-- <b> 👨‍🎓 University of MacEwan</b>
+- <b> University of MacEwan</b>
   - Bachelor's Degree in Computer Science (graduated 2025)
   - Minor in marketing
-  
-- <b> 💻 Harvard cs50 </b>
-  - Completed the free online version during University
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2> Software Development Projects:</h2>
 
 - <b>Reinforcement Learning & Automated Trading Software</b>
   - Capstone Project: RL for Feature Extraction and Decision making
