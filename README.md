@@ -45,8 +45,6 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/gabriel-jorand-912527aa)  
 🔗 LinkedIn profile
 
-[👖](https://grassrootsvintage.ca)  
-🔗 grassroots vintage online clothing store
 
 <!--
 **
